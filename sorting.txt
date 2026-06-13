@@ -1,5 +1,0 @@
-Sorting algorithms arrange elements of a list in a specific order.
-Bubble sort repeatedly swaps adjacent elements and has O(n squared) time complexity.
-Merge sort divides the array into halves, sorts them, and merges in O(n log n) time.
-Quick sort selects a pivot and partitions elements around it recursively.
-Insertion sort builds the sorted array one element at a time and works well on small inputs.

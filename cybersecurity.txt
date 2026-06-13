@@ -1,5 +1,0 @@
-Cybersecurity protects computer systems and networks from digital attacks.
-Encryption converts data into an unreadable format to prevent unauthorized access.
-Firewalls monitor and filter incoming and outgoing network traffic.
-Phishing attacks trick users into revealing sensitive information through fake messages.
-Common vulnerabilities include SQL injection, cross site scripting, and buffer overflow.

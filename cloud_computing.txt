@@ -1,5 +1,0 @@
-Cloud computing delivers computing services like storage and processing over the internet.
-Major cloud providers include Amazon Web Services, Google Cloud, and Microsoft Azure.
-Cloud services are categorized as IaaS, PaaS, and SaaS based on the level of abstraction.
-Scalability and pay-as-you-go pricing are key advantages of cloud platforms.
-

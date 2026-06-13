@@ -1,5 +1,0 @@
-Artificial intelligence enables machines to perform tasks that require human intelligence.
-Natural language processing allows computers to understand and generate human language.
-Neural networks are inspired by the structure of the human brain.
-Reinforcement learning trains agents by rewarding correct actions in an environment.
-AI is applied in areas like healthcare, finance, robotics, and autonomous vehicles.

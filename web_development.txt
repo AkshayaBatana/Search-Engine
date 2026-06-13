@@ -1,5 +1,0 @@
-Web development involves building websites and web applications for the internet.
-Frontend development uses HTML, CSS, and JavaScript to create user interfaces.
-Backend development handles server logic, databases, and APIs.
-React and Angular are popular frontend frameworks used in modern web development.
-REST APIs allow frontend and backend systems to communicate over HTTP.

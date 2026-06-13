@@ -1,5 +1,0 @@
-A tree is a hierarchical data structure with a root node and child nodes.
-Binary trees have at most two children for every node called left and right.
-Binary search trees maintain sorted order for efficient insertion and lookup.
-AVL trees and red black trees are self balancing binary search trees.
-Tree traversal methods include inorder, preorder, and postorder.

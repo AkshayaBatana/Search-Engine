@@ -1,5 +1,0 @@
-Data structures organize and store data efficiently for access and modification.
-Arrays store elements in contiguous memory locations with constant time access.
-Linked lists store elements as nodes where each node points to the next.
-Stacks follow LIFO order and queues follow FIFO order for element access.
-Hash tables provide average constant time lookup using a hash function.

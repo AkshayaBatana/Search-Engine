@@ -1,0 +1,5 @@
+Recursion is a technique where a function calls itself to solve smaller subproblems.
+Every recursive function needs a base case to stop infinite calls.
+The factorial of a number is a classic example of a recursive problem.
+Tower of Hanoi is a well known puzzle solved elegantly using recursion.
+Recursive solutions can often be converted to iterative ones using a stack.ỵ

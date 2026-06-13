@@ -1,0 +1,3 @@
+A database management system stores and manages structured data.
+SQL is the standard query language used to interact with relational databases.
+Normalization reduces data redundancy and improves database design.

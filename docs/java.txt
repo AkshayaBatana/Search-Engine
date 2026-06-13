@@ -1,0 +1,3 @@
+Java is an object oriented programming language used for enterprise software development.
+It runs on the Java Virtual Machine and is platform independent.
+Android app development commonly uses Java as the primary language.

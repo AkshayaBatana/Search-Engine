@@ -1,0 +1,5 @@
+Software engineering applies systematic methods to design and maintain software systems.
+The software development lifecycle includes planning, design, coding, testing, and deployment.
+Agile methodology emphasizes iterative development and frequent collaboration with stakeholders.
+Version control systems like Git track changes in code across a development team.
+Code reviews and unit testing improve software quality and reduce bugs.

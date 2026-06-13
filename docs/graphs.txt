@@ -1,0 +1,5 @@
+A graph is a collection of nodes connected by edges representing relationships.
+Graphs can be directed or undirected depending on whether edges have a direction.
+Breadth first search explores nodes level by level starting from a source node.
+Depth first search explores as far as possible along each branch before backtracking.
+Dijkstra's algorithm finds the shortest path between nodes in a weighted graph.

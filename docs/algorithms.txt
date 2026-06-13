@@ -1,0 +1,5 @@
+An algorithm is a step-by-step procedure to solve a computational problem.
+Time complexity measures how the runtime of an algorithm grows with input size.
+Binary search finds an element in a sorted array in O(log n) time.
+Greedy algorithms make locally optimal choices at each step to find a global solution.
+Dynamic programming solves problems by breaking them into overlapping subproblems.

@@ -1,0 +1,4 @@
+An operating system manages hardware and software resources on a computer.
+Process scheduling determines which process gets CPU time and for how long.
+Memory management handles allocation and deallocation of RAM for running programs.
+Deadlock occurs when two or more processes wait for each other to release resources.

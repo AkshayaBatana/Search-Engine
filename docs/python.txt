@@ -1,0 +1,3 @@
+Python is a high level programming language used for data science and machine learning.
+It has simple syntax and a large community of developers.
+Python libraries like NumPy and Pandas are widely used for data analysis.
